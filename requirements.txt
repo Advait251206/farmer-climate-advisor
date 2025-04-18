@@ -1,7 +1,0 @@
-Flask>=2.0
-requests
-numpy
-pandas
-scikit-learn
-gunicorn # Important: Production WSGI server for deployment
-python-dotenv # Useful for loading environment variables locally

@@ -1,1 +1,0 @@
-# farmer-climate-advisor
